@@ -30,3 +30,8 @@ ACCESS_TOKEN
 ACCESS_TOKEN_SECRET
 BEARER_TOKEN
 ```
+8) Las tres visualizaciones se pueden observar en el siguiente enlace: https://public.tableau.com/app/profile/jucajata/viz/Enersinc-Test-Viz/Sheet1#1
+- La primer visualización muestra por cada usuario objetivo cual es el promedio de likes que tienen las publicaciones que ellos dan like.
+- La segunda visualización muestra el número de palabras promedio que tiene cada publicación que cada usuario objetivo ha dado like.
+- La tercera visualizacion muestra el número de likes vs retuits que tienen las publicaciones que han dado like cada usuario objetivo, se puede observar
+todos combinados o mediante un filtro en la parte derecha escoger al usuario objetivo. El circulo se hace más grande si tiene más citas la publicaci
